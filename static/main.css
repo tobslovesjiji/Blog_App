@@ -1,6 +1,6 @@
 body {
-    background: #fafafa;
-    color: #333333;
+    background: #dad3c1;
+    color: #555555;
     margin-top: 5rem;
 }
 
@@ -8,15 +8,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #444444;
 }
 
-.bg-steel { background-color: #7289DA;
+.bg-steel { background-color: #918b7d;
 }
 
 .site-header .navbar-nav .nav-link {
-    color: #cbd5db
+    color: #000000
 }
 
 .site-header .navbar-nav .nav-link {
-    color: #ffffff
+    color: #000000
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -24,15 +24,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section {
-    background: #ffffff;
+    background: #dad3c1;
     padding: 10px 20px;
-    border: 1px solid #dddddd;
+    border: 1px solid #dad3c1;
     border-radius: 3px;
     margin-bottom: 20px;
 }
 
 .article-title {
-    color: #444444
+    color: #000000
 }
 
 a.article-title:hover {
@@ -53,11 +53,11 @@ a.article-title:hover {
 .article-metadata {
     padding-bottom: 1px;
     margin-bottom: 4px;
-    border-bottom: 1px solid #e3e3e3
+    border-bottom: 1px solid #000000
 }
 
 .article-metadata a:hover {
-    color: #333;
+    color: #000;
     text-decoration: none;
 }
 
