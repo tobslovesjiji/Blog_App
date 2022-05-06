@@ -64,7 +64,7 @@ def login():
             login_user(user, remember=form.remember.data)
             return redirect(url_for('home'))
         else:
-            flash('Login Unsuccessful. Please check your username and password', 'danger')
+            flash('The provided login data is incorrect.', 'danger')
     return render_template('login.html', title='Login', form=form)
 
 @app.route("/logout")
