@@ -1,14 +1,14 @@
 body {
     background: #dad3c1;
-    color: #555555;
+    color: #000000;
     margin-top: 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #444444;
+    color: #000000;
 }
 
-.bg-steel { background-color: #918b7d;
+.bg-steel { background-color: #a7a090;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -24,9 +24,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section {
-    background: #dad3c1;
+    background: #a7a090;
     padding: 10px 20px;
-    border: 1px solid #dad3c1;
+    border: 1px solid #a7a090;
     border-radius: 3px;
     margin-bottom: 20px;
 }
